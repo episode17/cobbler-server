@@ -1,0 +1,9 @@
+{
+  "name": "cobbler-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "ioredis": "^1.8.0",
+    "socket.io": "^1.3.6"
+  }
+}
